@@ -1,0 +1,7 @@
+3Canada:Ottawa
+2Netherlands:Amsterdam
+5Russia:Moscow
+2United Kingdom:London
+2Nigeria:Abuja
+2Germany:Berlin
+2France:Paris

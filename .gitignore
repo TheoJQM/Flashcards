@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Flashcards (Kotlin)/*
+!/Flashcards (Kotlin)/task/
+/Flashcards (Kotlin)/task/*
+!/Flashcards (Kotlin)/task/src
